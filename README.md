@@ -1,4 +1,4 @@
-# Winter Workshop Project Requirements
+# Winter Break Technical Homework
 
 - [Winter Workshop Project Requirements](#winter-workshop-project-requirements)
 - [React Context](#react-context)
